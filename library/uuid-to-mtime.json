@@ -275,8 +275,8 @@
     "relativePath": "common\\animation\\guide.anim"
   },
   "79146b76-f001-46c3-9f85-5e013f21b436": {
-    "asset": 1580845653161,
-    "meta": 1580845653212,
+    "asset": 1580901041260,
+    "meta": 1580901041295,
     "relativePath": "lobby.fire"
   },
   "fb886e5d-26a4-4067-b2b1-a943df50df0c": {
@@ -1835,8 +1835,8 @@
     "relativePath": "model\\primitives.fbx"
   },
   "27c7b7dd-9207-4432-8610-af6a62b779de": {
-    "asset": 1580899072319,
-    "meta": 1580899077168,
+    "asset": 1580902043889,
+    "meta": 1580902329209,
     "relativePath": "common\\script\\basic\\Glb.js"
   }
 }

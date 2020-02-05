@@ -8,17 +8,19 @@ var obj = {
     RANDOM_MATCH: 1, // 随机匹配
     PROPERTY_MATCH: 2, // 属性匹配
     MAX_PLAYER_COUNT: 3,
-    PLAYER_COUNTS: [1, 2, 3],
-    COOPERATION: 1,
-    COMPETITION: 2,
+    PLAYER_COUNTS: [1, 2],
+    COOPERATION: 1, //合作; 协作; 协助; 配合;
+    COMPETITION: 2, //竞争; 角逐; 比赛; 竞赛; 竞争者; 对手
+
     GAME_START_EVENT: "gameStart",
     GAME_TIME: "gameTime",
     PLAYER_FIRE_EVENT: "playerFire",
-    PLAYER_ROTATION_EVENT: "playerRotation",
+    PLAYER_ROTATION_EVENT: "playerRotation", //旋转; 转动; (旋转的) 一周，一圈; 轮换; 交替; 换班;
     GAME_OVER_EVENT: "gameOver",
     SCORE_EVENT: "score",
     ROUND_START: "roundStart",
     READY: "ready",
+
     IP: "wxrank.matchvs.com",
     PORT: "3010",
 
@@ -46,7 +48,7 @@ var obj = {
     syncFrame: true,
     FRAME_RATE: 5,
     roomId: 0,
-    playertime: 180,
+    playertime: 300,
     isGameOver: false
 };
 module.exports = obj;
