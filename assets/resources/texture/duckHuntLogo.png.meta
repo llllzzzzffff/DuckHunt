@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "f6ab3fe6-3848-43f1-969b-d48eff2a3dc5",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "duckHuntLogo": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "94355270-f4ea-45cb-8a72-e83064b22a37",
       "rawTextureUuid": "f6ab3fe6-3848-43f1-969b-d48eff2a3dc5",
       "trimType": "auto",

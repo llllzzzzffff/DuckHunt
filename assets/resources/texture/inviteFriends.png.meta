@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "06f91af1-1c34-4556-b73d-555cf868768e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "inviteFriends": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8b5f8093-0520-4c08-a211-0f166a1941e8",
       "rawTextureUuid": "06f91af1-1c34-4556-b73d-555cf868768e",
       "trimType": "auto",

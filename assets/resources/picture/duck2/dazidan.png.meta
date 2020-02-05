@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "2c717311-68d2-4d5f-911e-29e2054f3d35",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "dazidan": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fa19699e-e8f1-42c5-a7bb-061870e068de",
       "rawTextureUuid": "2c717311-68d2-4d5f-911e-29e2054f3d35",
       "trimType": "auto",

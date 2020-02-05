@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "2e63b4c4-44a6-459f-940a-9ac686866946",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "shijiandao": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "89a91c44-2558-48b4-877e-c2e73d22cc24",
       "rawTextureUuid": "2e63b4c4-44a6-459f-940a-9ac686866946",
       "trimType": "auto",

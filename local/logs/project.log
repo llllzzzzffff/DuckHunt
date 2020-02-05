@@ -1,56 +1,310 @@
-2019-03-12T03:25:46.148Z - normal: Load ~/.CocosCreator/settings.json
-2019-03-12T03:25:46.151Z - normal: checking language setting...
-2019-03-12T03:25:46.151Z - normal: Language: zh
-2019-03-12T03:25:46.792Z - success: protocol editor-framework registered
-2019-03-12T03:25:46.792Z - success: protocol app registered
-2019-03-12T03:25:46.792Z - success: protocol theme registered
-2019-03-12T03:25:46.792Z - success: protocol packages registered
-2019-03-12T03:25:46.793Z - success: protocol unpack registerred
-2019-03-12T03:25:46.793Z - success: protocol disable-commonjs registerred
-2019-03-12T03:25:47.025Z - normal: connected!
-2019-03-12T03:25:47.028Z - normal: Check project /Users/mac/DuckHunt
-2019-03-12T03:25:47.029Z - normal: Initializing Cocos2d
-2019-03-12T03:25:47.174Z - normal: Initializing Asset Database
-2019-03-12T03:25:47.203Z - success: protocol uuid registerred
-2019-03-12T03:25:47.203Z - success: protocol db registerred
-2019-03-12T03:25:47.203Z - success: protocol thumbnail registerred
-2019-03-12T03:25:47.204Z - normal: Loading editor/builtin packages
-2019-03-12T03:25:47.219Z - success: anysdk loaded
-2019-03-12T03:25:47.316Z - success: assets loaded
-2019-03-12T03:25:47.319Z - success: builder loaded
-2019-03-12T03:25:47.321Z - success: cocos-analytics loaded
-2019-03-12T03:25:47.324Z - success: console loaded
-2019-03-12T03:25:47.351Z - success: fb-instant-games loaded
-2019-03-12T03:25:47.355Z - success: hierarchy loaded
-2019-03-12T03:25:47.359Z - success: inspector loaded
-2019-03-12T03:25:47.361Z - success: keystore loaded
-2019-03-12T03:25:47.364Z - success: node-library loaded
-2019-03-12T03:25:47.366Z - success: package-asset loaded
-2019-03-12T03:25:47.368Z - success: preferences loaded
-2019-03-12T03:25:47.370Z - success: project-exporter loaded
-2019-03-12T03:25:47.384Z - success: project-importer loaded
-2019-03-12T03:25:47.387Z - success: project-settings loaded
-2019-03-12T03:25:47.390Z - success: ui-kit loaded
-2019-03-12T03:25:47.395Z - success: ui-grid loaded
-2019-03-12T03:25:47.398Z - success: scene loaded
-2019-03-12T03:25:47.399Z - success: sprite-editor loaded
-2019-03-12T03:25:47.402Z - success: store loaded
-2019-03-12T03:25:47.407Z - success: timeline loaded
-2019-03-12T03:25:47.407Z - normal: Loading builtin packages
-2019-03-12T03:25:47.410Z - success: asset-db-debugger loaded
-2019-03-12T03:25:47.411Z - success: color-picker loaded
-2019-03-12T03:25:47.415Z - success: package-manager loaded
-2019-03-12T03:25:47.416Z - success: qqplay-adapter loaded
-2019-03-12T03:25:47.422Z - success: sdkbox loaded
-2019-03-12T03:25:47.426Z - success: tester loaded
-2019-03-12T03:25:47.429Z - success: ui-kit-preview-extra loaded
-2019-03-12T03:25:47.432Z - success: ui-kit-preview loaded
-2019-03-12T03:25:47.436Z - success: ui-tree loaded
-2019-03-12T03:25:47.437Z - success: weapp-adapter loaded
-2019-03-12T03:25:48.258Z - normal: Initializing project /Users/mac/DuckHunt
-2019-03-12T03:25:48.260Z - normal: Loading packages
-2019-03-12T03:25:48.269Z - success: plugin-matchvs loaded
-2019-03-12T03:25:48.269Z - normal: Watching packages
-2019-03-12T03:25:48.371Z - normal: Run Application
-2019-03-12T03:25:50.478Z - success: preview server running at http://localhost:7456
-2019-03-12T03:25:56.274Z - normal: 1.9.3
+2020-02-05T10:31:57.907Z - normal: Load ~/.CocosCreator/settings.json
+2020-02-05T10:31:57.989Z - normal: Initializing Asset Database
+2020-02-05T10:31:58.004Z - normal: checking language setting...
+2020-02-05T10:31:58.004Z - normal: Language: zh
+2020-02-05T10:31:58.650Z - success: preview server running at http://localhost:7456
+2020-02-05T10:31:58.656Z - success: protocol editor-framework registered
+2020-02-05T10:31:58.656Z - success: protocol app registered
+2020-02-05T10:31:58.657Z - success: protocol theme registered
+2020-02-05T10:31:58.657Z - success: protocol packages registered
+2020-02-05T10:31:58.657Z - success: protocol uuid registerred
+2020-02-05T10:31:58.657Z - success: protocol db registerred
+2020-02-05T10:31:58.657Z - success: protocol thumbnail registerred
+2020-02-05T10:31:58.657Z - success: protocol unpack registerred
+2020-02-05T10:31:58.657Z - success: protocol disable-commonjs registerred
+2020-02-05T10:31:58.739Z - normal: connected!
+2020-02-05T10:31:58.740Z - normal: Check project B:\00000Project\DuckHunt
+2020-02-05T10:31:58.742Z - normal: Initializing project B:\00000Project\DuckHunt
+2020-02-05T10:31:58.813Z - success: adapters loaded
+2020-02-05T10:31:58.820Z - success: asset-db-debugger loaded
+2020-02-05T10:31:58.914Z - success: fb-audience-network loaded
+2020-02-05T10:31:58.950Z - success: fb-live-stream loaded
+2020-02-05T10:31:58.955Z - success: google-play-instant loaded
+2020-02-05T10:31:58.967Z - success: huawei-runtime loaded
+2020-02-05T10:31:58.968Z - success: jkw-adapter loaded
+2020-02-05T10:31:58.969Z - success: jsb-adapter loaded
+2020-02-05T10:31:58.976Z - success: oppo-runtime loaded
+2020-02-05T10:31:58.984Z - success: package-manager loaded
+2020-02-05T10:31:58.985Z - success: qtt-adapter loaded
+2020-02-05T10:31:58.989Z - success: runtime-dev-tools loaded
+2020-02-05T10:31:58.997Z - success: sdkbox loaded
+2020-02-05T10:31:59.003Z - success: ui-kit-preview-extra loaded
+2020-02-05T10:31:59.007Z - success: ui-kit-preview loaded
+2020-02-05T10:31:59.019Z - success: vivo-runtime loaded
+2020-02-05T10:31:59.022Z - success: alipay-minigame loaded
+2020-02-05T10:31:59.085Z - success: assets loaded
+2020-02-05T10:31:59.091Z - success: baidugame-opendata loaded
+2020-02-05T10:31:59.099Z - success: baidugame loaded
+2020-02-05T10:31:59.118Z - success: builder loaded
+2020-02-05T10:31:59.320Z - success: cocos-services loaded
+2020-02-05T10:31:59.334Z - success: console loaded
+2020-02-05T10:31:59.355Z - success: fb-instant-games loaded
+2020-02-05T10:31:59.358Z - success: game-window loaded
+2020-02-05T10:31:59.359Z - success: google-instant-games loaded
+2020-02-05T10:31:59.363Z - success: hierarchy loaded
+2020-02-05T10:31:59.366Z - success: inspector loaded
+2020-02-05T10:31:59.774Z - success: cpk-publish loaded
+2020-02-05T10:31:59.780Z - success: keystore loaded
+2020-02-05T10:31:59.805Z - success: node-library loaded
+2020-02-05T10:31:59.807Z - success: open-recent-items loaded
+2020-02-05T10:31:59.808Z - success: package-asset loaded
+2020-02-05T10:31:59.810Z - success: preferences loaded
+2020-02-05T10:31:59.812Z - success: project-exporter loaded
+2020-02-05T10:31:59.814Z - success: project-importer loaded
+2020-02-05T10:31:59.816Z - success: project-settings loaded
+2020-02-05T10:31:59.834Z - success: qtt-runtime loaded
+2020-02-05T10:31:59.840Z - success: scene loaded
+2020-02-05T10:31:59.841Z - success: simulator-debugger loaded
+2020-02-05T10:31:59.842Z - success: sprite-editor loaded
+2020-02-05T10:31:59.846Z - success: store loaded
+2020-02-05T10:31:59.850Z - success: timeline loaded
+2020-02-05T10:31:59.883Z - success: wechatgame-opendata loaded
+2020-02-05T10:31:59.888Z - success: wechatgame loaded
+2020-02-05T10:31:59.892Z - success: xiaomi-runtime loaded
+2020-02-05T10:31:59.921Z - success: plugin-matchvs loaded
+2020-02-05T10:32:00.660Z - info: Cocos Service load base data!
+2020-02-05T10:32:00.991Z - normal: Initializing Cocos2d
+2020-02-05T10:32:01.721Z - normal: Initializing engine extends
+2020-02-05T10:32:19.049Z - normal: Loading packages
+2020-02-05T10:32:19.066Z - normal: Watching packages
+2020-02-05T10:32:19.119Z - normal: Run Application
+2020-02-05T10:32:24.770Z - warn: Please change the definition of property 'duckAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    duckAudio: cc.Texture2D,
+    // or:
+    duckAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    duckAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:32:24.770Z - warn: Please change the definition of property 'fireAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    fireAudio: cc.Texture2D,
+    // or:
+    fireAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    fireAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:32:24.771Z - warn: Please change the definition of property 'firePlusAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    firePlusAudio: cc.Texture2D,
+    // or:
+    firePlusAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    firePlusAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:32:24.772Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.duckAudio", which its default value is type of object.
+2020-02-05T10:32:24.773Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.fireAudio", which its default value is type of object.
+2020-02-05T10:32:24.773Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.firePlusAudio", which its default value is type of object.
+2020-02-05T10:32:24.789Z - warn: Please change the definition of property 'winAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    winAudio: cc.Texture2D,
+    // or:
+    winAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    winAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:32:24.790Z - warn: Please change the definition of property 'loseAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    loseAudio: cc.Texture2D,
+    // or:
+    loseAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    loseAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:32:24.790Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.winAudio", which its default value is type of object.
+2020-02-05T10:32:24.791Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.loseAudio", which its default value is type of object.
+2020-02-05T10:35:50.091Z - warn: Please change the definition of property 'duckAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    duckAudio: cc.Texture2D,
+    // or:
+    duckAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    duckAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:35:50.093Z - warn: Please change the definition of property 'fireAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    fireAudio: cc.Texture2D,
+    // or:
+    fireAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    fireAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:35:50.094Z - warn: Please change the definition of property 'firePlusAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    firePlusAudio: cc.Texture2D,
+    // or:
+    firePlusAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    firePlusAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:35:50.094Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.duckAudio", which its default value is type of object.
+2020-02-05T10:35:50.094Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.fireAudio", which its default value is type of object.
+2020-02-05T10:35:50.094Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.firePlusAudio", which its default value is type of object.
+2020-02-05T10:35:50.095Z - warn: Please change the definition of property 'winAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    winAudio: cc.Texture2D,
+    // or:
+    winAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    winAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:35:50.095Z - warn: Please change the definition of property 'loseAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    loseAudio: cc.Texture2D,
+    // or:
+    loseAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    loseAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:35:50.095Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.winAudio", which its default value is type of object.
+2020-02-05T10:35:50.095Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.loseAudio", which its default value is type of object.
+2020-02-05T10:37:57.804Z - warn: Please change the definition of property 'duckAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    duckAudio: cc.Texture2D,
+    // or:
+    duckAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    duckAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:37:57.804Z - warn: Please change the definition of property 'fireAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    fireAudio: cc.Texture2D,
+    // or:
+    fireAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    fireAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:37:57.805Z - warn: Please change the definition of property 'firePlusAudio' in class 'uiGamePanel'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    firePlusAudio: cc.Texture2D,
+    // or:
+    firePlusAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    firePlusAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:37:57.805Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.duckAudio", which its default value is type of object.
+2020-02-05T10:37:57.805Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.fireAudio", which its default value is type of object.
+2020-02-05T10:37:57.806Z - warn: Can not indicate the 'cc.String' attribute for "uiGamePanel.firePlusAudio", which its default value is type of object.
+2020-02-05T10:37:57.807Z - warn: Please change the definition of property 'winAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    winAudio: cc.Texture2D,
+    // or:
+    winAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    winAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:37:57.808Z - warn: Please change the definition of property 'loseAudio' in class 'uiResult'. Starting from v1.10,
+the use of declaring a property in CCClass as a URL has been deprecated.
+For example, if property is Texture2D, the previous definition is:
+    loseAudio: cc.Texture2D,
+    // or:
+    loseAudio: {
+      url: cc.Texture2D,
+      default: ""
+    },
+Now it should be changed to:
+    loseAudio: {
+      type: cc.Texture2D, // use 'type:' to define Texture2D object directly
+      default: null,      // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2020-02-05T10:37:57.809Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.winAudio", which its default value is type of object.
+2020-02-05T10:37:57.810Z - warn: Can not indicate the 'cc.String' attribute for "uiResult.loseAudio", which its default value is type of object.

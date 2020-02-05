@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "25318814-21db-4e16-88ba-d9f05a40e88b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "cpm-logo": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6fb7a8e0-7282-468c-9d5e-c4fcebda9147",
       "rawTextureUuid": "25318814-21db-4e16-88ba-d9f05a40e88b",
       "trimType": "auto",

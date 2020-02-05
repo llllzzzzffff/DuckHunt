@@ -34,5 +34,25 @@
   "appSecret": "",
   "privateKey": "",
   "jailbreakPlatform": false,
-  "renderMode": "0"
+  "renderMode": "0",
+  "android": {
+    "packageName": "org.cocos2d.DuckHunt"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.DuckHunt"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.DuckHunt"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.DuckHunt",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
 }

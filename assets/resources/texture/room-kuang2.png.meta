@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "a4a44fb4-ac1a-421c-85d6-3d23c06a018d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "room-kuang2": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2cfed227-15ec-4f01-b3ad-fa1b26903508",
       "rawTextureUuid": "a4a44fb4-ac1a-421c-85d6-3d23c06a018d",
       "trimType": "auto",

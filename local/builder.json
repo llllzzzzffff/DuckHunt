@@ -7,7 +7,7 @@
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "wechatgame",
+  "platform": "mini-game",
   "previewHeight": "720",
   "previewWidth": "1280",
   "sourceMaps": false,
@@ -15,5 +15,7 @@
   "useDebugKeystore": true,
   "vsVersion": "auto",
   "includeEruda": false,
-  "androidStudio": true
+  "androidStudio": true,
+  "actualPlatform": "wechatgame",
+  "embedWebDebugger": false
 }

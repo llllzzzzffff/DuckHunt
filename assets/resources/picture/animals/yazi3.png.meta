@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "3aba3a5c-9447-4a6d-b101-0e778568b1d4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "yazi3": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6d07e974-becf-42c1-bfef-72f7518e9a77",
       "rawTextureUuid": "3aba3a5c-9447-4a6d-b101-0e778568b1d4",
       "trimType": "auto",

@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "6dc29853-c804-4ea0-a4ed-4ddf2917db75",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "sr-con-logo": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "24563e88-0c49-4826-b1b0-1c273addeb58",
       "rawTextureUuid": "6dc29853-c804-4ea0-a4ed-4ddf2917db75",
       "trimType": "auto",

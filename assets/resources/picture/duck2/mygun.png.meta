@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "7e78569f-6c84-4606-9a49-9d81b6f2add1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "mygun": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4d83e73f-e4a0-4bf3-bcd2-5a53868519df",
       "rawTextureUuid": "7e78569f-6c84-4606-9a49-9d81b6f2add1",
       "trimType": "auto",

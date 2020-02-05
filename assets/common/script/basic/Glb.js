@@ -13,14 +13,20 @@ var obj = {
     SCORE_EVENT: "score",
     ROUND_START: "roundStart",
     READY: "ready",
-    channel: 'MatchVS',
-    platform: 'alpha',
     IP: "wxrank.matchvs.com",
     PORT: "3010",
-    gameId: 201331,
+
     gameVersion: 1,
-    appKey: '17ffc6d5f1e14a04b99c4bf17addc411',
+
+     gameId: 201331,
+     appKey: '17ffc6d5f1e14a04b99c4bf17addc411',
     secret: '4cc0d042cd5547e98860728bb3207650',
+
+    channel: 'MatchVS',
+    platform: 'alpha',
+    // gameID: 218204,
+    // appKey:    '9170668fd6d94115871f5bd93a9f9add#C',
+    // secretKey: 'ba64a885f4e14171802c483d4bd3eb08',
 
     gameType: 1,
     matchType: 1,

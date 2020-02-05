@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "cb512c9f-a5b9-4737-a31d-de4066b24bf2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "beijing": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8962555b-e2ea-468e-9622-0c395cc0eefb",
       "rawTextureUuid": "cb512c9f-a5b9-4737-a31d-de4066b24bf2",
       "trimType": "auto",

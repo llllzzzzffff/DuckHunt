@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "3a258523-eb8a-425c-89b4-ba73c0badfd9",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "yeniao1": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8da06dde-99a5-4f7d-8d5a-490bb6f79332",
       "rawTextureUuid": "3a258523-eb8a-425c-89b4-ba73c0badfd9",
       "trimType": "auto",

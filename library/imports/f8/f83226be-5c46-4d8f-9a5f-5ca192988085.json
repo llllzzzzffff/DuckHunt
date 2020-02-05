@@ -2,7 +2,7 @@
   "__type__": "cc.LabelAtlas",
   "_name": "blue",
   "_objFlags": 0,
-  "_rawFiles": null,
+  "_native": "",
   "fntDataStr": "",
   "spriteFrame": {
     "__uuid__": "7f2c778a-f603-45b6-952b-a6934d858da0"
@@ -125,5 +125,6 @@
       }
     },
     "kerningDict": {}
-  }
+  },
+  "_fontDefDictionary": null
 }

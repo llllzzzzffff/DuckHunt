@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "57964809-c1b2-40c7-a45a-19f92b0b061a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "tiane3": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "56f8e6b0-d990-4791-9335-3df04256c5dc",
       "rawTextureUuid": "57964809-c1b2-40c7-a45a-19f92b0b061a",
       "trimType": "auto",

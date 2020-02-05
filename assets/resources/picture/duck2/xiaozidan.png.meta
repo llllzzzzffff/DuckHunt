@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "09991649-11f4-4fdf-b187-631bd82af281",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "xiaozidan": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a6d4dca2-1930-4ac0-9e31-e23aa623da2f",
       "rawTextureUuid": "09991649-11f4-4fdf-b187-631bd82af281",
       "trimType": "auto",

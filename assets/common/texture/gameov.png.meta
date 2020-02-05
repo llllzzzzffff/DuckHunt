@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "4347a015-0363-4a65-88a1-5280707ade98",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "gameov": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cc341139-38c1-459b-b010-6ba460db4e73",
       "rawTextureUuid": "4347a015-0363-4a65-88a1-5280707ade98",
       "trimType": "auto",

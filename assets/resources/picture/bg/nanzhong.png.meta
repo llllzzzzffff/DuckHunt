@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "c96b6bfe-6867-4adb-a369-496e2410a9f7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "nanzhong": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "210e59c8-1853-4204-9a92-7bbdf2177a9c",
       "rawTextureUuid": "c96b6bfe-6867-4adb-a369-496e2410a9f7",
       "trimType": "auto",
